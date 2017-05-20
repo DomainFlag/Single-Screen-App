@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Eli-Pili</string>
+    <string name="app_title">Eli-Pili</string>
+
+    <string name="app_image_description">Insight location</string>
+
+    <string name="app_topic_1">DETAILS</string>
+
+    <string name="app_topic_1_subtopic_1">Type</string>
+    <string name="app_topic_1_type">Restaurant</string>
+    <string name="app_topic_1_subtopic_2">Kitchen</string>
+    <string name="app_topic_1_kitchen">European</string>
+    <string name="app_topic_1_subtopic_3">Music</string>
+    <string name="app_topic_1_music">Retro</string>
+    <string name="app_topic_1_subtopic_4">Price</string>
+
+    <string name="app_topic_2">CONTACT INFORMATION</string>
+
+    <string name="app_topic_2_subtopic_1">Telephone</string>
+    <string name="app_topic_2_telephone">+373 22 221 362</string>
+    <string name="app_topic_2_subtopic_2">E-mail</string>
+    <string name="app_topic_2_email">cafe@eli-pili.com</string>
+    <string name="app_topic_2_subtopic_3">Website</string>
+    <string name="app_topic_2_website">facebook.com/elipilicafe</string>
+    <string name="app_topic_2_subtopic_4">Address</string>
+    <string name="app_topic_2_address">Chisinau, str. Bucuresti, 68</string>
+
+    <string name="app_topic_3">FACILITIES</string>
+
+    <string name="app_topic_3_subtopic_1">Business Launch</string>
+    <string name="app_topic_3_subtopic_2">Grill</string>
+    <string name="app_topic_3_subtopic_3">Hookah</string>
+    <string name="app_topic_3_subtopic_4">Parking</string>
+    <string name="app_topic_3_subtopic_5">Terrace</string>
+    <string name="app_topic_3_subtopic_6">Wi-Fi</string>
+    <string name="app_topic_3_subtopic_7">Tv Screen</string>
+    <string name="app_topic_3_subtopic_8">24/24</string>
+
+</resources>
